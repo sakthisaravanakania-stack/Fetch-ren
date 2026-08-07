@@ -49,3 +49,10 @@ h1{
         width: 100%;
     }
 }
+@media(max-width:336px){
+    .card p{
+        width: 100%;
+        font-size: 18px;
+       
+    }
+}
